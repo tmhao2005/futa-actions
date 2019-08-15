@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "outDir": "./lib",
+    "resolveJsonModule": true,
+    "sourceMap": true
+  },
+  "exclude": [
+    "lib",
+    "node_modules"
+  ],
+  "include": [
+    "src/**/*.ts"
+  ]
+}
